@@ -1,0 +1,16 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 30px;
+  background: #f4f4f4;
+}
+form {
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+}
+fieldset {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 15px;
+}
